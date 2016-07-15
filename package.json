@@ -1,0 +1,24 @@
+{
+  "name": "complex_render_express",
+  "version": "0.0.1",
+  "description": "multiple view engine to render pages",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "pug",
+    "jade",
+    "ejs"
+  ],
+  "author": "Fazts Js",
+  "license": "ISC"
+}
